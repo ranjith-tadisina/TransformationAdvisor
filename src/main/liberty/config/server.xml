@@ -1057,6 +1057,6 @@ Sun Aug 02 15:50:03 UTC 2020--><server>
         <type>zmm=application/vnd.handheld-entertainment+xml</type>
     </mimeTypes>
     <applicationMonitor updateTrigger="mbean"/>
-    <application id="CustomerInfo" location="customerinfo.war" name="CustomerInfo" type="war">
+<!--    <application id="CustomerInfo" location="customerinfo.war" name="CustomerInfo" type="war"> -->
 </application>
 </server>
